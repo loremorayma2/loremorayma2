@@ -1,4 +1,12 @@
 ### Hi there 👋
+## ✨ My name is Lorena but I prefer to be called Lo or Lore. I am an active, sociable and responsible person who likes to meet new people and learn from new experiences.
+## I am passionate about technology, I also love to be creative and introduce innovative technologies to improve the teaching of new people towards development.✨
+
+📫 **How to reach me:**
+well, you could contact me by the following social networks:
+* [LinkedIn] https://www.linkedin.com/in/lorena-morayma-huasco-aruquipa-557640184/
+* [Instagram] https://www.instagram.com/lore_morayma/
+* [Facebook] https://www.facebook.com/lorena.huascoaruquipa
 
 <!--
 **loremorayma2/loremorayma2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
