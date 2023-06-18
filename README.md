@@ -1,6 +1,6 @@
 ### Hi there 👋
-## ✨ My name is Lorena but I prefer to be called Lo or Lore. I am an active, sociable and responsible person who likes to meet new people and learn from new experiences.
-## I am passionate about technology, I also love to be creative and introduce innovative technologies to improve the teaching of new people towards development.✨
+###### ✨ My name is Lorena but I prefer to be called Lo or Lore. I am an active, sociable and responsible person who likes to meet new people and learn from new experiences.
+###### I am passionate about technology, I also love to be creative and introduce innovative technologies to improve the teaching of new people towards development.✨
 
 📫 **How to reach me:**
 well, you could contact me by the following social networks:
