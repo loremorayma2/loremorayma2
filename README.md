@@ -1,6 +1,7 @@
 ### Hi there 👋
-###### ✨ My name is Lorena but I prefer to be called Lo or Lore. I am an active, sociable and responsible person who likes to meet new people and learn from new experiences.
-###### I am passionate about technology, I also love to be creative and introduce innovative technologies to improve the teaching of new people towards development.✨
+###### ✨ My name is Lorena but I prefer to be called Lo or Lore. I am an active, sociable and responsible person who likes to meet new people and learn from new experiences.✨
+###### ✨ I am passionate about technology, I also love to be creative and introduce innovative technologies to improve the teaching of new people towards development.✨
+###### 🔭 I’m currently working as a Frontend and Mobile Developer.🌱
 
 📫 **How to reach me:**
 well, you could contact me by the following social networks:
@@ -8,6 +9,8 @@ well, you could contact me by the following social networks:
 * [Instagram] https://www.instagram.com/lore_morayma/
 * [Facebook] https://www.facebook.com/lorena.huascoaruquipa
 * [Twitter] https://twitter.com/LoreMorayma
+
+💬 if you have some questions, just tell me 🤔
 
 <!--
 **loremorayma2/loremorayma2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
