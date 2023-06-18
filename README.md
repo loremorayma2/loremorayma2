@@ -7,6 +7,7 @@ well, you could contact me by the following social networks:
 * [LinkedIn] https://www.linkedin.com/in/lorena-morayma-huasco-aruquipa-557640184/
 * [Instagram] https://www.instagram.com/lore_morayma/
 * [Facebook] https://www.facebook.com/lorena.huascoaruquipa
+* [Twitter] https://twitter.com/LoreMorayma
 
 <!--
 **loremorayma2/loremorayma2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
